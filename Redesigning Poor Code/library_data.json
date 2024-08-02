@@ -1,0 +1,15 @@
+{
+    "books": [
+        {
+            "title": "TheGoatLife",
+            "author": "Blessy",
+            "isbn": "1234"
+        },
+        {
+            "title": "Ram C/O Anandhi",
+            "author": "Akhil P Dharmajan",
+            "isbn": "5678"
+        }
+    ],
+    "users": []
+}
